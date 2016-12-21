@@ -1,0 +1,326 @@
+body{
+background-color:#505050;
+margin-top: 0px;
+margin-bottom: 0px;
+background-image: url(../resimage/bb.png);
+
+}
+
+#artit img{
+border:1px solid;
+border-radius:10px;
+}
+#headerme p{
+color:white;
+font-family: Papyrus, fantasy;
+font-size:30px;
+text-shadow: 4px 4px #888888;
+text-align: center;
+}
+
+#back{
+padding:0 0 0 0;
+margin:auto;
+background-color:#eee;
+width:80%;
+height:100%;
+
+border:2px solid;
+
+
+}
+#holder a{
+	display: block;
+	background-color: #bebebe;
+	border: 1px solid;
+
+	
+}
+#holder a:hover{
+	display: block;
+	background-color: #fff;
+	
+}
+
+#holder{
+padding:0 0 0 0;
+margin:auto;
+background-color:#eee;
+width:80%;
+height:1000px;
+
+border:1px solid;
+border-color: black;
+
+}
+
+
+.showup img{
+border:1px solid;
+border-radius: 10px;
+
+
+}
+
+.showup {
+
+background-color:#000; 
+
+
+}
+
+.lookup{
+	
+	background-color: #efefef;
+	height: 50%;
+	width: 60%;
+	padding-left: 30%;
+
+	
+}
+.posthere{
+	padding: 20px 20px 20px 20px;
+	background-color: #dedede;
+	height: 80%;
+	width: 100%;
+	border: 1px solid;
+	border-radius: 10px;
+	border-color: black;
+	color: green;
+	
+	
+}
+#info p:first-letter {
+
+font-size :30px; 
+
+
+}
+.posthere table{
+	
+border: none;
+	text-align: right;
+	
+}
+#headerme {
+padding:0 0 0 0;
+margin:auto;
+background-color:#006B24;
+width:80%;
+height:100px;
+
+border:2px solid;
+border-radius:5px;
+border-color: black;
+
+}
+select{
+background-color : yellow;
+color:blue;
+}
+a{
+text-decoration:none;
+}
+#info{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:50%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+#fav{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:50%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+#artit{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:50%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+
+#cont{
+padding:20px 20px 100px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:80%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+
+
+.tbhead{
+background-color:#0078ff;
+}
+#pp{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:50%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+#goto{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:20%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+#goto p{
+color: brown;
+text-align: right;
+}
+.backtop{
+	text-align: right;
+}
+table{
+     border:2px solid;
+	 
+	 width:70%
+	 
+}
+.sections td{
+	text-align: center;
+
+}
+#hob{
+padding:20px 20px 20px 20px;
+margin:auto;
+background-color:#ddd;
+width:90%;
+height:30%;
+border:1px solid;
+border-radius:5px;
+text-align:justify;
+text-justify:inter-word;
+}
+
+.tbhead{
+	text-align: center;
+}
+#info img{
+
+
+	height:100px;
+ width: 100px; 
+ 
+ float:left;
+ padding:10px 10px 10px 10px;
+ 
+ border-radius: 5px;
+ border:1px dashed;
+
+}
+#info p{
+
+text-indent:50px;
+line-height: 40px;
+
+}
+#hob p{
+
+text-indent:50px;
+line-height: 40px;
+
+}
+#fav p{
+
+text-indent:50px;
+line-height: 40px;
+
+}
+#left{
+display: inline;
+ 
+background-color:#dedede;
+width:200px;
+height:1000px;
+
+border:1px solid;
+
+float:left;
+text-align: center;
+border-color: black;
+
+}
+#logolink{
+
+margin:auto;
+background-color:#99CC00;
+border:1px solid;
+border-color: black;
+width:80%;
+height:40px;
+
+}
+#logolink a{
+padding :0 0 0 10px;
+
+
+}
+
+.footer{
+width: 80%;
+height: 6%;
+margin:auto;
+background-color: #006B24;
+
+
+left: 26%;
+border: 2px solid;
+border-radius: 10px;
+text-align: center;
+color: black;
+ }
+.footer p{
+color:white;
+ }
+.modifyinfo{
+width: 10%;
+height: 5%;
+background-color: #efefef;
+position:fixed ;
+bottom: 0px;
+left: 90%;
+border: 1px solid;
+border-radius: 10px;
+text-align: center;
+color: brown;
+ background: rgba(255, 255, 255, .5);}
+
+}
+
+
+
+
+.posthere textarea
+{
+   resize: none;
+}

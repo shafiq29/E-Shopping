@@ -1,0 +1,55 @@
+.lookup{
+	padding-left: 20px;
+	padding-top: 10px;
+     position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:14em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: #f3f3f3;
+}
+.lookup input{
+	color:blue;
+	border-radius: 5px;
+	
+}
+body{
+
+	background-color: #A9F5A9;
+}
+#task{
+
+padding-left: 20px;
+background-color:#eee;
+width:95%;
+height:50%;
+
+border:1px solid;
+border-color: black;
+overflow-y:scroll; 
+
+}
+.adminback{
+	height:700px;
+	width:80%;
+	margin:auto;
+	
+
+padding:0 0 0 0;
+
+background-color:#eee;
+
+border:1px solid;
+border-color: black;
+
+}
+.waitlist{
+border-bottom: 1px solid;
+border-color: green;
+text-align: center;
+
+}

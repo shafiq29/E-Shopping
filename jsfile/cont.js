@@ -1,0 +1,10 @@
+var image1=new Image()
+image1.src="art/img1.jpg"
+var image2=new Image()
+image2.src="art/img2.jpg"
+var image3=new Image()
+image3.src="art/img3.jpg"
+var image4=new Image()
+image4.src="art/img4.jpg"
+var image5=new Image()
+image5.src="art/img5.jpg"

@@ -1,0 +1,23 @@
+var image1=new Image()
+image1.src="profile/me1.jpg"
+var image2=new Image()
+image2.src="profile/me2.jpg"
+var image3=new Image()
+image3.src="profile/me3.jpg"
+var image4=new Image()
+image4.src="profile/me4.jpg"
+var image5=new Image()
+image5.src="profile/me5.jpg"
+var image6=new Image()
+image6.src="profile/me6.jpg"
+var image7=new Image()
+image7.src="profile/me7.jpg"
+var image8=new Image()
+image8.src="profile/me8.jpg"
+var image9=new Image()
+image9.src="profile/me9.jpg"
+var image10=new Image()
+image10.src="profile/me10.jpg"
+
+var image11=new Image()
+image11.src="profile/me11.jpg"
